@@ -1,0 +1,21 @@
+body {
+    background-color: ivory;
+    padding:40px;
+}
+#wrapper {
+    position:relative;
+    width:315px;
+    height:215px;
+}
+#canvasBottom {
+    position:absolute;
+    top:0px;
+    left:0px;
+    border:1px solid rgb(38, 1, 245);
+}
+#canvasTop {
+    position:absolute;
+    top:20px;
+    left:20px;
+    border:1px solid rgb(11, 2, 129);
+}
